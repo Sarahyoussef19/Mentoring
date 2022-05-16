@@ -1,5 +1,6 @@
-## This is a readme file.
-- In this repo all branches should be named # <issue number>-<name-of-the-issue>
+# Mentoring
+## Naming convention.
+- In this repo all branches should be named starting with # then issue number followed by name of the issue
 - PRs (pull requests) should be named like branches
 
 ## Commit messages should follow the following rules:
@@ -12,7 +13,7 @@
 - Wrap lines at 72 characters
 - Use the body to explain what and why you have done something. In most cases, you can leave out details about how a change has been made.
 ## Example
-  Add CPU arch filter scheduler support
+- Add CPU arch filter scheduler support
 
 ## Information in commit messages
 - Describe why a change is being made.
